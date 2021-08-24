@@ -174,7 +174,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
-								<div class="copyright">&copy<a target="_blank" href="https://www.templateshub.net">DLI UM</a></div>
+								<div class="copyright">&copy DLI UM</div>
 							</div>
 							
 							<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 align-right">

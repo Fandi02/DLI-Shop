@@ -1,0 +1,21 @@
+User
+- Nama
+- Username
+- Jenis Kelamin
+- No Telp
+- Alamat
+- Email
+- Password
+
+Product
+- Image Product
+- Nama Product
+- Harga Product
+- Jumlah Product
+- Rating product
+- Reviews Product
+
+Admin
+- Nama admin
+- Email admin
+- Password admin

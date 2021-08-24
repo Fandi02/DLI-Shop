@@ -39,7 +39,7 @@
                                 <div class="form-group text-center">
 									<div class="link">
                                         <text class="title">Anda belum memiliki akun?</text>
-										<a href="register.php">Register</a>
+										<a href="<?= base_url('register');?>">Register</a>
 									</div>
 								</div>
 

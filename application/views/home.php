@@ -35,7 +35,7 @@
 									<div class="col-md-6 col-xs-12 product-left">
 										<div class="product-info">
 											<div class="product-title">
-												<a href="product-detail-left-sidebar.html">
+												<a href="<?= base_url('details');?>">
 													Komputer
 												</a>
 											</div>
@@ -61,7 +61,7 @@
 									
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
-											<a href="product-detail-left-sidebar.html">
+											<a href="<?= base_url('details');?>">
 												<img src="assets/img/product/komputer.jpg" alt="Product Image">
 											</a>
 										</div>

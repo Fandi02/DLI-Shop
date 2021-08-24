@@ -7,7 +7,7 @@
 						<h2 class="title">Register</h2>
 						
 						<ul class="breadcrumb">
-							<li><a href="<?= base_url('register');?>" title="Home">Home</a></li>
+							<li><a href="<?= base_url();?>" title="Home">Home</a></li>
 							<li><span>Register</span></li>
 						</ul>
 					</div>
@@ -57,7 +57,7 @@
                                 <div class="form-group text-center">
 									<div class="link">
                                         <text class="title">Sudah memiliki akun?</text>
-										<a href="login.php">Login</a>
+										<a href="<?= base_url('login');?>">Login</a>
 									</div>
 								</div>
 							</form>

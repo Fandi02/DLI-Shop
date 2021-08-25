@@ -1,172 +1,63 @@
+			
 			<!-- Footer -->
 			<footer id="footer">
 				<div class="footer">
-					<!-- Footer Top -->
-					<div class="footer-top">
-						<div class="container">
+					<div class="container">
+						<div class="footer-wrap">
 							<div class="row">
-								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-col">
 									<div class="block text">
 										<div class="block-content">
-											<a href="index.html" class="logo-footer">
-												<img src="assets/img/Logo/dli-logo.png" alt="Logo" height="75px">
+											<a href="<?= base_url();?>" class="logo-footer">
+												<img src="assets/img/Logo/dli-logo.png" alt="Logo">
 											</a>
-									
-											<div class="contact">
-												<div class="item d-flex">
-													<div class="item-left">
-														<i class="zmdi zmdi-home"></i>
-													</div>
-													<div class="item-right">
-														<span>Malang, Jawa Timur</span>
-													</div>
-												</div>
-												<div class="item d-flex">
-													<div class="item-left">
-														<i class="zmdi zmdi-phone-in-talk"></i>
-													</div>
-													<div class="item-right">
-														<span>0829-8912-0912<br>8281-9289-1892</span>
-													</div>
-												</div>
-												<div class="item d-flex">
-													<div class="item-left">
-														<i class="zmdi zmdi-email"></i>
-													</div>
-													<div class="item-right">
-														<span><a href="mailto:support@domain.com">DLI@DLI.com</a><br><a href="mailto:contact@domain.com">UM@UM.com</a></span>
-													</div>
-												</div>
-											</div>
+											
+											<p>Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 										</div>
 									</div>
 								</div>
 								
-								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-									<div class="block instagram">
-										<h2 class="block-title">Photo Instagram</h2>
-										
-										<div class="block-content">
-											<div class="row margin-0">
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-1.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-2.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-3.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-4.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-5.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-6.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-7.png" alt="Instagram Image">
-													</a>
-												</div>
-												<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding-0">
-													<a href="#">
-														<img src="assets/img/instagram-8.png" alt="Instagram Image">
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-col">
 									<div class="block newsletter">
-										<h2 class="block-title">Newsletter</h2>
+										<h2 class="block-title">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h2>
 										
 										<div class="block-content">
-											<p class="description">Sign up for newsletter to receive special offers and exclusive news about FreshMart products</p>
+											<p class="description">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 											<form action="#" method="post">
 												<input type="text" placeholder="Enter Your Email">
 												<button type="submit" class="btn btn-primary">Subscribe</button>
 											</form>
 										</div>
 									</div>
-										
-									<div class="block social">
-										<h2 class="block-title">Follow Us</h2>
+								</div>
+								
+								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-col">
+									<div class="block text">
+										<h2 class="block-title">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h2>
 										
 										<div class="block-content">
-											<ul>
-												<li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
-												<li><a href="#"><i class="zmdi zmdi-twitter"></i></a></li>
-												<li><a href="#"><i class="zmdi zmdi-dribbble"></i></a></li>
-												<li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
-											</ul>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-					
-					<!-- Footer Bottom -->
-					<div class="footer-bottom">
-						<div class="payment-intro">
-							<div class="container">
-								<div class="row">
-									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-										<div class="item d-flex">
-											<div class="item-left">
-												<img src="assets/img/home1-payment-1.png" alt="Payment Intro">
-											</div>
-											<div class="item-right">
-												<h3 class="title">Free Shipping item</h3>
-												<div class="content">Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor</div>
-											</div>
-										</div>
-									</div>
-									
-									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-										<div class="item d-flex">
-											<div class="item-left">
-												<img src="assets/img/home1-payment-2.png" alt="Payment Intro">
-											</div>
-											<div class="item-right">
-												<h3 class="title">Secured Payment</h3>
-												<div class="content">Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor</div>
-											</div>
-										</div>
-									</div>
-									
-									<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-										<div class="item d-flex">
-											<div class="item-left">
-												<img src="assets/img/home1-payment-3.png" alt="Payment Intro">
-											</div>
-											<div class="item-right">
-												<h3 class="title">Money Back Guarantee</h3>
-												<div class="content">Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor</div>
+								
+								<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-col">
+									<div class="block text">
+										<h2 class="block-title">Contact Us</h2>
+										
+										<div class="block-content">
+											<div class="contact">
+												<p><strong>Address</strong> : Malang, Indonesia</p>
+												<p><strong>Hotline</strong> : 081237832198 - 081234859203</p>
+												<p><strong>Email</strong> : <a href="mailto:um@um.com">um@um.com</a></p>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</div>		
 				</div>
 				
 				<!-- Copyright -->
@@ -179,7 +70,6 @@
 							
 							<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 align-right">
 								<div class="payment">
-									<span>Payment Accept</span>
 									<img src="assets/img/payment.png" alt="Payment">
 								</div>
 							</div>
@@ -187,8 +77,7 @@
 					</div>
 				</div>
 			</footer>
-			
-			
+
 			<!-- Go Up button -->
 			<div class="go-up">
 				<a href="#">

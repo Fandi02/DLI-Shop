@@ -3,12 +3,11 @@
 				<!-- Breadcrumb -->
 				<div id="breadcrumb">
 					<div class="container">
-						<h2 class="title">Fruit</h2>
+						<h2 class="title">Collection</h2>
 						
 						<ul class="breadcrumb">
 							<li><a href="<?= base_url();?>" title="Home">Home</a></li>
-							<li><a href="#" title="Fruit">Fruit</a></li>
-							<li><span>Tomato</span></li>
+							<li>collection</li>
 						</ul>
 					</div>
 				</div>

@@ -16,7 +16,7 @@
     <div class="container">
 
 					<div class="login-page">
-						<div class="login-form form">
+						<div class="login-form form mb">
 							<div class="block-title">
 								<h2 class="title"><span>Login</span></h2>
 							</div>
@@ -42,13 +42,12 @@
 										<a href="<?= base_url('register');?>">Register</a>
 									</div>
 								</div>
-
-                                <div class="form-group text-center">
+								<div class="container">
                                     <img src="assets/img/facebook.png" alt="">
                                     <img src="assets/img/google.png" alt="">
                                     <img src="assets/img/twitter.png" alt="">
                                     <img src="assets/img/linkedin.png" alt="">
-                                </div>
+                            </div>
 							</form>
 						</div>
 					</div>

@@ -54,7 +54,7 @@
 										</li>
 										
 										<li class="dropdown">
-											<a href="product-grid-left-sidebar.html" title="Product">Product</a>
+											<a href="<?= base_url('collections')?>" title="Product">Product</a>
 											<div class="dropdown-menu">
 												<ul>
 													<li class="has-image dropdown-submenu">

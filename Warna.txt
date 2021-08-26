@@ -1,0 +1,5 @@
+warna1 : #f21f32
+warna2 : #dc1c0d
+warna3 : #c6041c
+warna4 : #b0000f
+warna5 : #8c091b

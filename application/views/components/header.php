@@ -54,7 +54,7 @@
 										</li>
 										
 										<li class="dropdown">
-											<a href="<?= base_url('collections')?>" title="Product">Product</a>
+											<a href="" title="Product">Product</a>
 											<div class="dropdown-menu">
 												<ul>
 													<li class="has-image dropdown-submenu">
@@ -69,21 +69,37 @@
 															</ul>
 														</div>
 													</li>
-													<li class="has-image">
-														<img src="assets/img/product/product-category-2.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="Fruits">Fruits</a>
+													<li class="has-image rounded">
+														<img src="assets/img/product/moocs.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
 													</li>
 													<li class="has-image">
-														<img src="assets/img/product/product-category-3.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="Bread">Bread</a>
+														<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
 													</li>
 													<li class="has-image">
-														<img src="assets/img/product/product-category-4.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="Juices">Juices</a>
+														<img src="assets/img/product/koolinera.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
 													</li>
 													<li class="has-image">
-														<img src="assets/img/product/product-category-5.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="Tea and coffee">Tea and coffee</a>
+														<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
+													</li>
+													<li class="has-image">
+														<img src="assets/img/product/vistalks.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
+													</li>
+													<li class="has-image">
+														<img src="assets/img/product/muse.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
+													</li>
+													<li class="has-image">
+														<img src="assets/img/product/medisain.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
+													</li>
+													<li class="has-image">
+														<img src="assets/img/product/sensitif.png" alt="Product Category Image">
+														<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
 													</li>
 												</ul>
 											</div>

@@ -11,7 +11,7 @@
 								<img class="img-responsive" src="assets/img/slideshow/home1-slideshow-2.jpg" alt="Slideshow Image">
 							</a>
 							<a href="#">
-								<img class="img-responsive" src="assets/img/slideshow/home1-slideshow-3.jpg" alt="Slideshow Image">
+								<img class="img-responsive" src="assets/img/bg-red.jpg" alt="Slideshow Image">
 							</a>
 						</div>
 					</div>
@@ -28,7 +28,7 @@
 					</div>
 					
 					<div class="block-content">
-						<h2 class="product-info">Komputer/Laptop</h2>
+						<h2 class="product-info">Platform Open Learning</h2>
 						<div class="products owl-theme owl-carousel">
 							<div class="product-item">
 								<div class="row">
@@ -36,7 +36,7 @@
 										<div class="product-info">
 											<div class="product-title">
 												<a href="<?= base_url('details');?>">
-													Komputer
+													Smart MOOCS
 												</a>
 											</div>
 											
@@ -75,7 +75,7 @@
 										<div class="product-info">
 											<div class="product-title">
 												<a href="product-detail-left-sidebar.html">
-													Laptop
+													Idbookstore
 												</a>
 											</div>
 											
@@ -114,7 +114,7 @@
 										<div class="product-info">
 											<div class="product-title">
 												<a href="product-detail-left-sidebar.html">
-													Mac
+													Koolinera
 												</a>
 											</div>
 											
@@ -153,7 +153,7 @@
 										<div class="product-info">
 											<div class="product-title">
 												<a href="product-detail-left-sidebar.html">
-													Komputer
+													Craftivity
 												</a>
 											</div>
 											
@@ -186,136 +186,13 @@
 								</div>
 							</div>
 
-						</div>
-					</div>
-
-					<div class="block-content">
-						<h2 class="product-info">Handphone</h2>
-						<div class="products owl-theme owl-carousel">
 							<div class="product-item">
 								<div class="row">
 									<div class="col-md-6 col-xs-12 product-left">
 										<div class="product-info">
 											<div class="product-title">
 												<a href="product-detail-left-sidebar.html">
-													Handphone
-												</a>
-											</div>
-											
-											
-											<div class="product-price">
-												<span class="sale-price">$35.00</span>
-												<span class="base-price">$55.00</span>
-											</div>
-											
-											<div class="product-intro">Ini Handphone</div>
-											
-											<div class="product-countdown" data-date="2018/11/22">
-											</div>
-
-											<div class="product-buttons mt-5">
-												<a class="add-to-cart" href="#">
-													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
-												</a>
-											</div>
-										</div>
-									</div>
-									
-									<div class="col-md-6 col-xs-12 product-right">
-										<div class="product-image">
-											<a href="product-detail-left-sidebar.html">
-												<img src="assets/img/product/hp.jpg" alt="Product Image">
-											</a>
-										</div>
-									</div>
-								</div>
-							</div>
-								
-							<div class="product-item">
-								<div class="row">
-									<div class="col-md-6 col-xs-12 product-left">
-										<div class="product-info">
-											<div class="product-title">
-												<a href="product-detail-left-sidebar.html">
-													Handphone gaming
-												</a>
-											</div>
-											
-											
-											<div class="product-price">
-												<span class="sale-price">$35.00</span>
-												<span class="base-price">$55.00</span>
-											</div>
-											
-											<div class="product-intro">Ini hp</div>
-											
-											<div class="product-countdown" data-date="2018/11/22">
-											</div>
-
-											<div class="product-buttons mt-5">
-												<a class="add-to-cart" href="#">
-													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
-												</a>
-											</div>
-										</div>
-									</div>
-									
-									<div class="col-md-6 col-xs-12 product-right">
-										<div class="product-image">
-											<a href="product-detail-left-sidebar.html">
-												<img src="assets/img/product/hp gaming.jpeg" alt="Product Image">
-											</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							
-							<div class="product-item">
-								<div class="row">
-									<div class="col-md-6 col-xs-12 product-left">
-										<div class="product-info">
-											<div class="product-title">
-												<a href="product-detail-left-sidebar.html">
-													Mac
-												</a>
-											</div>
-											
-											
-											<div class="product-price">
-												<span class="sale-price">$35.00</span>
-												<span class="base-price">$55.00</span>
-											</div>
-											
-											<div class="product-intro">Ini mac</div>
-											
-											<div class="product-countdown" data-date="2018/11/22">
-											</div>
-
-											<div class="product-buttons mt-5">
-												<a class="add-to-cart" href="#">
-													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
-												</a>
-											</div>
-										</div>
-									</div>
-									
-									<div class="col-md-6 col-xs-12 product-right">
-										<div class="product-image">
-											<a href="product-detail-left-sidebar.html">
-												<img src="assets/img/product/mac.jpg" alt="Product Image">
-											</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							
-							<div class="product-item">
-								<div class="row">
-									<div class="col-md-6 col-xs-12 product-left">
-										<div class="product-info">
-											<div class="product-title">
-												<a href="product-detail-left-sidebar.html">
-													Komputer
+													Vistalks
 												</a>
 											</div>
 											
@@ -348,8 +225,126 @@
 								</div>
 							</div>
 
+							<div class="product-item">
+								<div class="row">
+									<div class="col-md-6 col-xs-12 product-left">
+										<div class="product-info">
+											<div class="product-title">
+												<a href="product-detail-left-sidebar.html">
+													Muse Akademi
+												</a>
+											</div>
+											
+											
+											<div class="product-price">
+												<span class="sale-price">$35.00</span>
+												<span class="base-price">$55.00</span>
+											</div>
+											
+											<div class="product-intro">Komputer tipe ini adalah tipe yang paling mantapz</div>
+											
+											<div class="product-countdown" data-date="2018/11/22">
+											</div>
+
+											<div class="product-buttons mt-5">
+												<a class="add-to-cart" href="#">
+													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+												</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-xs-12 product-right">
+										<div class="product-image">
+											<a href="product-detail-left-sidebar.html">
+												<img src="assets/img/product/komputer.jpg" alt="Product Image">
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="product-item">
+								<div class="row">
+									<div class="col-md-6 col-xs-12 product-left">
+										<div class="product-info">
+											<div class="product-title">
+												<a href="product-detail-left-sidebar.html">
+													Medisain
+												</a>
+											</div>
+											
+											
+											<div class="product-price">
+												<span class="sale-price">$35.00</span>
+												<span class="base-price">$55.00</span>
+											</div>
+											
+											<div class="product-intro">Komputer tipe ini adalah tipe yang paling mantapz</div>
+											
+											<div class="product-countdown" data-date="2018/11/22">
+											</div>
+
+											<div class="product-buttons mt-5">
+												<a class="add-to-cart" href="#">
+													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+												</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-xs-12 product-right">
+										<div class="product-image">
+											<a href="product-detail-left-sidebar.html">
+												<img src="assets/img/product/komputer.jpg" alt="Product Image">
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="product-item">
+								<div class="row">
+									<div class="col-md-6 col-xs-12 product-left">
+										<div class="product-info">
+											<div class="product-title">
+												<a href="product-detail-left-sidebar.html">
+													Sensitif
+												</a>
+											</div>
+											
+											
+											<div class="product-price">
+												<span class="sale-price">$35.00</span>
+												<span class="base-price">$55.00</span>
+											</div>
+											
+											<div class="product-intro">Komputer tipe ini adalah tipe yang paling mantapz</div>
+											
+											<div class="product-countdown" data-date="2018/11/22">
+											</div>
+
+											<div class="product-buttons mt-5">
+												<a class="add-to-cart" href="#">
+													<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+												</a>
+											</div>
+										</div>
+									</div>
+									
+									<div class="col-md-6 col-xs-12 product-right">
+										<div class="product-image">
+											<a href="product-detail-left-sidebar.html">
+												<img src="assets/img/product/komputer.jpg" alt="Product Image">
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
+
+
 				</div>
 				
 				

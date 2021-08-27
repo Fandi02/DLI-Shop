@@ -14315,7 +14315,7 @@ input {
 	width: 24px;
 }
 #breadcrumb {
-	background: url("../img/bg-breadcrumb.jpg") no-repeat scroll 0 0;
+	background: url("../img/bg-red.jpg") no-repeat scroll 0 0;
 }
 [class~="newsletter-popup"] [class~="popup"] {
 	border-radius: 5px;

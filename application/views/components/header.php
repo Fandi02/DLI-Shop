@@ -59,47 +59,166 @@
 												<ul>
 													<li class="has-image dropdown-submenu">
 														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="Vegetables">Vegetables</a>
+														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>
-																<li><a href="product-grid-left-sidebar.html" title="Product Grid - Left Sidebar">Product Grid - Left Sidebar</a></li>
-																<li><a href="product-grid-right-sidebar.html" title="Product Grid - Right Sidebar">Product Grid - Right Sidebar</a></li>
-																<li><a href="product-grid-full-width.html" title="Product Grid - Full Width">Product Grid - Full Width</a></li>
-																<li><a href="product-list-left-sidebar.html" title="Product List - Left Sidebar">Product List - Left Sidebar</a></li>
+																<li class="has-image rounded">
+																	<img src="assets/img/product/moocs.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/koolinera.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/vistalks.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/muse.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/medisain.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/sensitif.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
+																</li>
 															</ul>
 														</div>
 													</li>
-													<li class="has-image rounded">
-														<img src="assets/img/product/moocs.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
+													
+													<li class="has-image dropdown-submenu">
+														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<a href="product-grid-left-sidebar.html" title="media_pembelajaran">Media Pembelajaran</a>
+														<div class="dropdown-menu level2">
+															<ul>
+																<li class="has-image rounded">
+																	<img src="assets/img/product/moocs.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/koolinera.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/vistalks.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/muse.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/medisain.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/sensitif.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
+																</li>
+															</ul>
+														</div>
 													</li>
-													<li class="has-image">
-														<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
+
+													<li class="has-image dropdown-submenu">
+														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
+														<div class="dropdown-menu level2">
+															<ul>
+																<li class="has-image rounded">
+																	<img src="assets/img/product/moocs.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/koolinera.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/vistalks.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/muse.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/medisain.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/sensitif.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
+																</li>
+															</ul>
+														</div>
 													</li>
-													<li class="has-image">
-														<img src="assets/img/product/koolinera.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
-													</li>
-													<li class="has-image">
-														<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
-													</li>
-													<li class="has-image">
-														<img src="assets/img/product/vistalks.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
-													</li>
-													<li class="has-image">
-														<img src="assets/img/product/muse.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
-													</li>
-													<li class="has-image">
-														<img src="assets/img/product/medisain.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
-													</li>
-													<li class="has-image">
-														<img src="assets/img/product/sensitif.png" alt="Product Category Image">
-														<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
+
+													<li class="has-image dropdown-submenu">
+														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
+														<div class="dropdown-menu level2">
+															<ul>
+																<li class="has-image rounded">
+																	<img src="assets/img/product/moocs.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Smart MOOCS">Smart MOOCS</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/idbookstore.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="idbookstore">Idbookstore</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/koolinera.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="koolinera">Koolinera</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/Craftivity.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="Craftivity">Craftivity</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/vistalks.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="vistalks">Vistalks</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/muse.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="muse">Muse Akademi</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/medisain.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="medisain">Medisain</a>
+																</li>
+																<li class="has-image">
+																	<img src="assets/img/product/sensitif.png" alt="Product Category Image">
+																	<a href="<?= base_url('details');?>" title="sensitif">Sensitif</a>
+																</li>
+															</ul>
+														</div>
 													</li>
 												</ul>
 											</div>

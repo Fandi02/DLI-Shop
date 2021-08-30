@@ -35,7 +35,11 @@
 		<!-- Template CSS -->
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/reponsive.css">
-</head>
+
+		<!-- Animations -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+		
+	</head>
 
 <body class="home home-4">
 		<div id="all">
@@ -58,7 +62,7 @@
 											<div class="dropdown-menu">
 												<ul>
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<img src="assets/img/icon.png" alt="Product Category Image">
 														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -99,7 +103,7 @@
 													</li>
 													
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<img src="assets/img/icon.png" alt="Product Category Image">
 														<a href="product-grid-left-sidebar.html" title="media_pembelajaran">Media Pembelajaran</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -140,7 +144,7 @@
 													</li>
 
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<img src="assets/img/icon.png" alt="Product Category Image">
 														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -181,7 +185,7 @@
 													</li>
 
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/product/product-category-1.png" alt="Product Category Image">
+														<img src="assets/img/icon.png" alt="Product Category Image">
 														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>

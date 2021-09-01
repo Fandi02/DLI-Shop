@@ -63,7 +63,7 @@
 												<ul>
 													<li class="has-image dropdown-submenu">
 														<img src="assets/img/icon.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
+														<a href="">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>
 																<li class="has-image rounded">
@@ -104,7 +104,7 @@
 													
 													<li class="has-image dropdown-submenu">
 														<img src="assets/img/icon.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="media_pembelajaran">Media Pembelajaran</a>
+														<a href="">Media Pembelajaran</a>
 														<div class="dropdown-menu level2">
 															<ul>
 																<li class="has-image rounded">
@@ -145,7 +145,7 @@
 
 													<li class="has-image dropdown-submenu">
 														<img src="assets/img/icon.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
+														<a href="">Buku Digital</a>
 														<div class="dropdown-menu level2">
 															<ul>
 																<li class="has-image rounded">
@@ -186,7 +186,7 @@
 
 													<li class="has-image dropdown-submenu">
 														<img src="assets/img/icon.png" alt="Product Category Image">
-														<a href="product-grid-left-sidebar.html" title="platform_open_learning">Platform Open learning</a>
+														<a href="">Aplikasi Pembelajaran </a>
 														<div class="dropdown-menu level2">
 															<ul>
 																<li class="has-image rounded">

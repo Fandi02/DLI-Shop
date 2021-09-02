@@ -284,7 +284,7 @@
 									</div>
 									<div class="dropdown-menu">										
 										<div class="item">
-											<a href="#" title="Log in to your customer account"><i class="fa fa-cog"></i>My Account</a>
+											<a href="<?= base_url('user') ?>" title="Log in to your customer account"><i class="fa fa-cog"></i>My Account</a>
 										</div>
 										<div class="item">
 											<a href="<?= base_url('login') ?>" title="Log in to your customer account"><i class="fa fa-sign-in"></i>Login</a>

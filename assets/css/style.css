@@ -11306,7 +11306,7 @@ input {
 	padding-bottom: 0;
 }
 [class~="home-4"] #footer [class~="footer"] [class~="footer-wrap"]:before {
-	background: url("../img/bg-footer-4.png");
+	background: url("../img/bg-footer.png");
 }
 [class~="sidebar"] [class~="tags"] ul li {
 	border-left-color: #e3e0d3;
@@ -14315,7 +14315,7 @@ input {
 	width: 24px;
 }
 #breadcrumb {
-	background: url("../img/bg-red.jpg") no-repeat scroll 0 0;
+	background: url("../img/giphy.gif") no-repeat scroll 0 0;
 }
 [class~="newsletter-popup"] [class~="popup"] {
 	border-radius: 5px;

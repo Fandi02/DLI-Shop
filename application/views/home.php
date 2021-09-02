@@ -83,7 +83,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/moocs.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/moocs.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -143,7 +143,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/idbookstore.png" alt="Product Image"  height="250px">
+												<img src="assets/img/product/idbookstore.png" alt="Product Image" >
 											</a>
 										</div>
 									</div>
@@ -203,7 +203,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/koolinera.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/koolinera.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -263,7 +263,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/craftivity.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/craftivity.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -323,7 +323,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/vistalks.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/vistalks.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -383,7 +383,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/muse.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/muse.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -443,7 +443,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/labird.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/labird.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -501,7 +501,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/medisain.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/medisain.png" alt="Product Image">
 											</a>
 										</div>
 									</div>
@@ -560,7 +560,7 @@
 									<div class="col-md-6 col-xs-12 product-right">
 										<div class="product-image">
 											<a href="<?= base_url('details');?>">
-												<img src="assets/img/product/sensitif.png" alt="Product Image" height="250px">
+												<img src="assets/img/product/sensitif.png" alt="Product Image">
 											</a>
 										</div>
 									</div>

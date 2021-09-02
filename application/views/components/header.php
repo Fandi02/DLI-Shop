@@ -6,7 +6,7 @@
 		<!-- Basic Page Needs -->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" scontent="IE=edge">
-		<title>DLI Shop</title>
+		<title>DLI - Shop</title>
 		
 		<meta name="keywords" content="Murah, Kualitas Bagus, Pengiriman Cepat">
 		<meta name="description" content="Harga pasti dijamin murah, Kualitas pun dijamin, Pengiriman juga cepat">
@@ -37,7 +37,8 @@
 		<link rel="stylesheet" href="assets/css/reponsive.css">
 
 		<!-- Animations -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+		<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"> -->
+		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 		
 	</head>
 

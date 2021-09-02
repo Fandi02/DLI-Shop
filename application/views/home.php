@@ -22,7 +22,7 @@
 				
 				<!-- Product -->
 				<div class="section products-block deals-of-day show-hover nav-color layout-2">
-					<div class="block-title animated infinite bounce">
+					<div class="block-title" data-aos="flip-left">
 						<h2 class="title">shopping of <span>The Day</span></h2>
 						<div class="sub-title">DLI Shop hari menawarkan produk-produk keren untuk anda</div>
 					</div>

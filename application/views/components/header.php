@@ -63,7 +63,7 @@
 											<div class="dropdown-menu">
 												<ul>
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/icon.png" alt="Product Category Image">
+														<img src="assets/img/icon/platform_open_learning1.png" alt="Product Category Image">
 														<a href="">Platform Open learning</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -104,7 +104,7 @@
 													</li>
 													
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/icon.png" alt="Product Category Image">
+														<img src="assets/img/icon/media_pembelajaran1.png" alt="Product Category Image">
 														<a href="">Media Pembelajaran</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -145,7 +145,7 @@
 													</li>
 
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/icon.png" alt="Product Category Image">
+														<img src="assets/img/icon/buku_digital1.png" alt="Product Category Image">
 														<a href="">Buku Digital</a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -186,7 +186,7 @@
 													</li>
 
 													<li class="has-image dropdown-submenu">
-														<img src="assets/img/icon.png" alt="Product Category Image">
+														<img src="assets/img/icon/aplikasi_pembelajaran1.png" alt="Product Category Image">
 														<a href="">Aplikasi Pembelajaran </a>
 														<div class="dropdown-menu level2">
 															<ul>
@@ -230,17 +230,30 @@
 										</li>									
 										
 										<li class="dropdown">
-											<a href="">Blog</a>
+											<a href="" title="Page">Page</a>
+											<div class="dropdown-menu">
+												<ul>
+													<li class="has-sub">
+															<a href="<?= base_url();?>#category" title="Category Product">Category Product</a>
+													</li>
+												</ul>
+												<ul>
+													<li class="has-sub">
+															<a href="<?= base_url();?>#partners" title="Partners">Partners</a>
+													</li>
+												</ul>
+												<ul>
+													<li class="has-sub">
+															<a href="<?= base_url();?>#testimonial" title="Testimonial">Testimonial</a>
+													</li>
+												</ul>
+											</div>
+										</li>
 
-										</li>
-										
 										<li>
-											<a href="">About Us</a>
+											<a href="#footer">About Us</a>
 										</li>
-										
-										<li>
-											<a href="">Contact</a>
-										</li>
+
 									</ul>
 								</div>
 							</div>

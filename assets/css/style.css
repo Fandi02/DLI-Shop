@@ -14315,7 +14315,7 @@ input {
 	width: 24px;
 }
 #breadcrumb {
-	background: url("../img/giphy.gif") no-repeat scroll 0 0;
+	background: url("../img/bg-red.png") no-repeat scroll 0 0;
 }
 [class~="newsletter-popup"] [class~="popup"] {
 	border-radius: 5px;
